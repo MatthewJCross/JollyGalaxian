@@ -77,4 +77,4 @@ Inspired by the original **Galaxian** arcade game. This is an independent fan pr
 
 ## License
 
-No license has been specified yet. Add a `LICENSE` file if you want to define terms for reuse and contributions.
+No license
